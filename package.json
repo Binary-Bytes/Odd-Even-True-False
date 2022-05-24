@@ -1,0 +1,30 @@
+{
+    "name": "odd-even-true-false",
+    "version": "1.0.0",
+    "description": "A Package To Know If A Number Is Odd Or Even",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Binary-Bytes/Odd-Even_NPM-Package.git"
+    },
+    "keywords": [
+        "odd-even",
+        "even-odd",
+        "odd",
+        "even",
+        "npm",
+        "node",
+        "binary-bytes",
+        "javascript",
+        "package"
+    ],
+    "author": "Binary Bytes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Binary-Bytes/Odd-Even_NPM-Package/issues"
+    },
+    "homepage": "https://github.com/Binary-Bytes/Odd-Even_NPM-Package#readme"
+}
